@@ -1,8 +1,7 @@
 ---
-layout: post
+layout: event
 title:  "Open Data Week Event"
 date:   2018-03-05
-categories: news
 ---
 
 # NYC Open Data Week @ NYU
