@@ -13,7 +13,7 @@ paginate: 6
 paginate_path: "/news/page:num/"
 
 collections:
-  events:
+  events: /_events
     output: true
     permalink: /calendar/:path/
   projects:
