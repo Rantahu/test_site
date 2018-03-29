@@ -1,7 +1,7 @@
 ---
 layout: event
 title:  "Open Data Week Event"
-date:   2018-03-05
+event_date:   2018-03-05
 ---
 
 # NYC Open Data Week @ NYU
