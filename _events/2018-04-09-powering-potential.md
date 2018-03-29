@@ -1,7 +1,7 @@
 ---
 layout: event
 title:  "Powering Potential speaker"
-date:   2018-04-09
+event_date:   2018-04-09
 ---
 
 # NYU BUGS Speaker
