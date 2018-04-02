@@ -1,7 +1,7 @@
 ---
 layout: event
-title:  "Open Data Week Event"
-event_date:   2018-03-05
+title: "Open Data Week Event"
+event_date: 2018-03-05
 ---
 
 # NYC Open Data Week @ NYU
@@ -119,7 +119,7 @@ future fire stations.
 Data](https://data.cityofnewyork.us/Public-Safety/Fire-Incident-Dispatch-Data/8m42-w767)
 
 **Shucheng Yan** , Mathematics, CAS
-**Abstract:** In this project, we will focus on vehicle collisions in New York city and predict the most likely contributing factors of a collision if it happened in Manhattan using features extracted from the vehicle’s current location in real time. One potential use of the model is to integrate it into a navigation app, such as Google Map or Waze. When a driver is following the navigation and driving to his destination, the navigation app can make real time prediction on the most likely contributing factors of a collision if it happened given the current time, driver’s location, weather, vehicle type etc. In this way, the driver can get real time notifications that will remind him to take special care of certain driving behaviors when he is driving in a given set of conditions. 
+**Abstract:** In this project, we will focus on vehicle collisions in New York city and predict the most likely contributing factors of a collision if it happened in Manhattan using features extracted from the vehicle’s current location in real time. One potential use of the model is to integrate it into a navigation app, such as Google Map or Waze. When a driver is following the navigation and driving to his destination, the navigation app can make real time prediction on the most likely contributing factors of a collision if it happened given the current time, driver’s location, weather, vehicle type etc. In this way, the driver can get real time notifications that will remind him to take special care of certain driving behaviors when he is driving in a given set of conditions.
 **Data set used:** [NYPD Motor Vehicle
 Collisions](https://data.cityofnewyork.us/Public-Safety/NYPD-Motor-Vehicle-Collisions/h9gi-nx95/data)
 
@@ -130,4 +130,3 @@ Data](https://www.open-data.nyc/wp-content/uploads/2018/01/NYCOpenData_Logo-1-30
 
 [![NYU Office of Educational
 Technology](https://18798-presscdn-pagely.netdna-ssl.com/fas-edtech/wp-content/uploads/sites/354/2014/09/logoNav3.png)](https://wp.nyu.edu/fas-edtech//)
-
