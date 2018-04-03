@@ -4,8 +4,12 @@
     <header>
       {% include navbutton.html %}
     </header>
-	  <h1 class="brand"><a href="{{ site.baseurl}}news">News_</a></h1>
-	<h3>{{ page.title }}</h3>
+	  <div class="header">
+	  <div class="header-content">
+		  <h1 class="brand"><a href="{{ site.baseurl}}/news">News_</a></h1>
+	  </div>
+	</div>
+	  <h3><a href="{{ site.baseurl }}{{ post.url }}">{{ page.title }}</a></h3>
     <div class="container">
       {{ content }}
     </div>
