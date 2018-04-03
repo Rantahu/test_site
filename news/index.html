@@ -16,7 +16,7 @@ permalink: /news/
     <span class="six columns">
       <h4><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h4>
       <p class="author">
-        <span class="date">{{ post.date }}</span>
+        <span class="date">{{ post.date | date: '%B %d, %Y' }}</span>
       </p>
       <div class="summary">
         {{ post.summary }}
