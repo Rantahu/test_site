@@ -22,12 +22,9 @@ event_date: 2018-04-09
 
 [**Interview Article**](https://opensource.com/education/16/6/interview-janice-lathen-powering-potential)
 
-## WHEN
+## WHEN & WHERE
 
-### Monday, April 9th, 2018
+### 7pm, Monday April 9th 2018
 
-### Time TBA
+### Courant, room 512
 
-## WHERE
-
-### TBA
