@@ -1,6 +1,7 @@
 ---
-layout: default
+layout: post
 title: "Website Redesign"
+date: 2018-04-04
 ---
 
 We're proud to introduce a fresh, new look for the BUGS Open Source website. 

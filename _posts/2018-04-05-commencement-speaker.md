@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "Commencement Speaker"
 date: 2018-04-05
 ---
